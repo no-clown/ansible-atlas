@@ -42,3 +42,10 @@ Ansible Atlas is proprietary software. See [EULA.md](EULA.md).
 
 Ansible is a trademark of Red Hat, Inc. This project is not affiliated with,
 endorsed by, or sponsored by Red Hat, Inc. or JetBrains.
+
+## Something not working?
+
+See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) first — most problems come from the environment
+Ansible Atlas depends on, and the page lists the fix for each one.
+
+If that does not help, [open an issue](https://github.com/no-clown/ansible-atlas/issues).
